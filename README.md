@@ -30,3 +30,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-gill&layout=compact&langs_count=10&theme=radical" alt="ahmad-gill-languages" style="margin: 10px;" />
 </div>
 
+<p>
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmad-gill&theme=darkhub&no-frame=true&row=1&column=6" alt="ahmad-gill-trophies" />
+</p>
+
+

@@ -15,6 +15,11 @@
 - 📫 How to reach me **m.ahmadgill01@gmail.com**
 
 - ⚡ Fun fact **I once tried to train a neural network to predict the weather, but it kept telling me to 'expect scattered showers of binary code and a high chance of data storms!' 🌧️💻**
+<!-- Green GitHub Contributions Chart -->
+<h3 align="center">My GitHub Contribution Chart</h3>
+<p align="center">
+  <img src="https://ghchart.rshah.org/009900/ahmad-gill" alt="ahmad-gill's Github chart" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
